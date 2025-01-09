@@ -11,12 +11,12 @@
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">Login Page for user on 09/01/25</th>
+                        <th colspan="2">Login Page for user on 10jan/25</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Username</td>
+                        <td> Account username</td>
                         <td><input type="text" name="userName" value="" /></td>
                     </tr>
                     <tr>
